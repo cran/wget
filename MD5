@@ -1,0 +1,7 @@
+735407695c43b38cfb1f3b1c6b5d39df *DESCRIPTION
+4c13c7a34b1ab0976ad2db4300d40eff *NAMESPACE
+31fc8934701bc52e3b1e16c15ec711a5 *R/wget.R
+4494851eafce9bd77ec4336f62041b8a *R/zzz.R
+2731ba52074c1d133e9c1fd4793db624 *README.md
+9aff9579fb21f00d011e37e18eba2db2 *man/wget_set.Rd
+7a1fce3b59bb3e0cdc8ab9e2291cfa17 *man/wget_unset.Rd
